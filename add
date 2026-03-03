@@ -1,0 +1,7 @@
+# Assign two numbers to variables
+num1 = 10
+num2 = 20
+
+# Add the numbers
+sum_result = num1 + num2
+
